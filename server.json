@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pipeworx-io/nih-supplements",
+  "title": "Nih Supplements",
+  "description": "NIH Supplements",
+  "version": "0.1.0",
+  "websiteUrl": "https://pipeworx.io/packs/nih-supplements",
+  "repository": {
+    "url": "https://github.com/pipeworx-io/mcp-nih-supplements",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gateway.pipeworx.io/nih-supplements/mcp"
+    }
+  ]
+}

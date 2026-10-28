@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-nih-supplements",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "NIH Supplements",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-c735549e0087636205a2118f41a3eb7acf86b64ae32a61905528c0a4d30f1489",
-    "sourceCommit": "97740c6ee04c8acbfe7dddcacfde9e88ff2b9ca0"
+    "sourceHash": "v1-5ce09c2f099b8d1824465efe3cff9d70c7ef32c10f6a4416751f84660e0f5b66",
+    "sourceCommit": "774de7f685a75e02d0b828d24a7b94794102152c"
   }
 }
